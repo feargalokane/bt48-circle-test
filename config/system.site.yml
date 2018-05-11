@@ -1,0 +1,14 @@
+uuid: ecfbd51f-4a39-49e8-b727-a75e5ffcc17d
+name: bt48-circle-test
+mail: feargal@bt48.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
